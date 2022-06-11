@@ -2,7 +2,7 @@
 - 👀 I’m interested in Kubernetes and DevOps
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me aakq1019@gmail.com
 
 <!---
 Aakash-Nair221/Aakash-Nair221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
